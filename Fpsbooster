@@ -37,4 +37,3 @@ workspace.DescendantAdded:Connect(function(child)
         end
     end)()
 end)
-setfpscap(10000)
