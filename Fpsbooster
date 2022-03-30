@@ -1,3 +1,4 @@
+setfpscap(4000)
 workspace:FindFirstChildOfClass('Terrain').WaterWaveSize = 0
 workspace:FindFirstChildOfClass('Terrain').WaterWaveSpeed = 0
 workspace:FindFirstChildOfClass('Terrain').WaterReflectance = 0
